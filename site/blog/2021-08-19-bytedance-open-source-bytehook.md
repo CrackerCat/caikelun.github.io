@@ -2,7 +2,7 @@
 
 * Author: Kelun Cai (caikelun@gmail.com)
 * Date: 2021-08-19
-* Tags: Android, crash
+* Tags: Android, hook, PLT, GOT
 * License: [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 
