@@ -1,9 +1,9 @@
 # Android PLT hook 概述
 
 * Author: Kelun Cai (caikelun@gmail.com)
-* License: [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 * Date: 2018-05-01
 * Tags: Android, hook, PLT, GOT
+* License: [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 
 # 获取代码和资源
