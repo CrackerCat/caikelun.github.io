@@ -32,5 +32,5 @@
 ## Connect with me
 
 * Email: caikelun@gmail.com
-* GitHub: https://github.com/caikelun
 * HomePage: https://caikelun.github.io
+* GitHub: https://github.com/caikelun
