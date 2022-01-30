@@ -1,6 +1,8 @@
-# <span style="color:blue">Android PLT hook 概述</span>
+# Android PLT hook 概述
 
-date: 2018-05-01
+* Date: 2018-05-01
+* Author: Kelun Cai (caikelun@gmail.com)
+* License: [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 
 # 获取代码和资源
