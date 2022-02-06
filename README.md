@@ -20,13 +20,13 @@
 
 ## My work on open source
 
-* [ByteHook](https://github.com/bytedance/bhook) - a PLT hook framework for Android app.
-* [xUnwind](https://github.com/hexhacking/xUnwind) - a collection of Android native stack unwinding solutions.
-* [xDL](https://github.com/hexhacking/xDL) - an enhanced implementation of the Android DL series functions.
-* [xCrash](https://github.com/iqiyi/xCrash) - which provides the Android app with the ability to capture java crash, native crash and ANR.
-* [xHook](https://github.com/iqiyi/xHook) - a PLT hook library for Android native ELF.
-* [libsvx](https://github.com/caikelun/libsvx) - a socket network library for Linux.
-* [PermissionBase](https://github.com/caikelun/PermissionBase) - a permission framework using Nhibernate and Ajax for ASP.NET.
+* [ByteHook @ByteDance](https://github.com/bytedance/bhook) - A PLT hook framework for Android app.
+* [xUnwind @HexHacking](https://github.com/hexhacking/xUnwind) - A collection of Android native stack unwinding solutions.
+* [xDL @HexHacking](https://github.com/hexhacking/xDL) - An enhanced implementation of the Android DL series functions.
+* [xCrash @iQiyi](https://github.com/iqiyi/xCrash) - A java crash, native crash and ANR catcher for android app.
+* [xHook @iQiyi](https://github.com/iqiyi/xHook) - A PLT hook library for Android native ELF.
+* [libsvx](https://github.com/caikelun/libsvx) - A socket network library for Linux.
+* [PermissionBase](https://github.com/caikelun/PermissionBase) - A permission framework using Nhibernate and Ajax for ASP.NET.
 
 
 ## Connect with me
