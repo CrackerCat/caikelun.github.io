@@ -20,6 +20,7 @@
 
 ## My work on open source
 
+* [ShadowHook @ByteDance](https://github.com/bytedance/android-inline-hook) - An inline hook library for Android app.
 * [ByteHook @ByteDance](https://github.com/bytedance/bhook) - A PLT hook framework for Android app.
 * [xUnwind @HexHacking](https://github.com/hexhacking/xUnwind) - A collection of Android native stack unwinding solutions.
 * [xDL @HexHacking](https://github.com/hexhacking/xDL) - An enhanced implementation of the Android DL series functions.
