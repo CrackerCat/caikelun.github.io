@@ -32,6 +32,7 @@
 
 ## Connect with me
 
-* Email: caikelun@gmail.com
 * HomePage: https://caikelun.github.io
 * GitHub: https://github.com/caikelun
+* Email: caikelun@gmail.com
+* PGP public key: [download](https://raw.githubusercontent.com/caikelun/caikelun.github.io/master/site/pgp-public-key.txt)
