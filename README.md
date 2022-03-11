@@ -1,7 +1,7 @@
 # HomePage
 
 
-## Blog
+## :notebook_with_decorative_cover: Blog
 
 `2021-08-19` [字节跳动开源 Android PLT hook 方案 ByteHook](site/blog/2021-08-19-bytedance-open-source-bytehook.md)
 
@@ -18,7 +18,7 @@
 `2018-05-01` [Android PLT hook 概述](site/blog/2018-05-01-android-plt-hook-overview.md)
 
 
-## Open Source Projects
+## :gear: Open Source Projects
 
 * [ShadowHook @ByteDance](https://github.com/bytedance/android-inline-hook) - An inline hook library for Android app.
 * [ByteHook @ByteDance](https://github.com/bytedance/bhook) - A PLT hook framework for Android app.
@@ -30,10 +30,10 @@
 * [PermissionBase](https://github.com/caikelun/PermissionBase) - A permission framework using Nhibernate and Ajax for ASP.NET.
 
 
-## Contact
+## :wave: Contact
 
 * HomePage: https://caikelun.github.io
 * GitHub: https://github.com/caikelun
 * Twitter: https://twitter.com/caikelun
 * Email: caikelun@gmail.com
-* PGP Public Key: [download](https://raw.githubusercontent.com/caikelun/caikelun.github.io/master/site/pgp-public-key.txt)
+* PGP Public Key: :point_right: [download](https://raw.githubusercontent.com/caikelun/caikelun.github.io/master/site/pgp-public-key.txt) :point_left:
