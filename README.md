@@ -1,4 +1,4 @@
-# HomePage
+# Kelun Cai's Homepage
 
 
 ## :notebook_with_decorative_cover: Blog
@@ -18,7 +18,7 @@
 `2018-05-01` [Android PLT hook 概述](site/blog/2018-05-01-android-plt-hook-overview.md)
 
 
-## :gear: Open Source Projects
+## :gear: Open Source Software
 
 * [ShadowHook @ByteDance](https://github.com/bytedance/android-inline-hook) - An inline hook library for Android app.
 * [ByteHook @ByteDance](https://github.com/bytedance/bhook) - A PLT hook framework for Android app.
@@ -32,8 +32,11 @@
 
 ## :wave: Contact
 
-* HomePage: https://caikelun.github.io
+Hi there. I'm Kelun Cai, a software engineer and open source software author in Shanghai, China.
+
+* Homepage: https://caikelun.github.io
 * GitHub: https://github.com/caikelun
+* GitLab: https://gitlab.com/caikelun
 * Twitter: https://twitter.com/caikelun
 * Email: caikelun@gmail.com
-* PGP Public Key: :point_right: [download](https://raw.githubusercontent.com/caikelun/caikelun.github.io/master/site/pgp-public-key.txt) :point_left:
+* PGP Public Key: [download](https://raw.githubusercontent.com/caikelun/caikelun.github.io/master/site/pgp-public-key.txt)
