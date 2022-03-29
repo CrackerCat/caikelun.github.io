@@ -1,6 +1,6 @@
 # Kelun Cai's Homepage
 
-Hi there. I'm Kelun Cai, a software engineer and open source software author in Shanghai, China.
+Hi there. I'm Kelun Cai, a software engineer and open source projects author in Shanghai, China.
 
 ## Blog
 
@@ -12,7 +12,7 @@ Hi there. I'm Kelun Cai, a software engineer and open source software author in 
 * `2018-06-26` [IDA Pro 静态分析与动态分析](site/blog/2018-06-26-ida-pro-static-analysis-and-dynamic-analysis.md)
 * `2018-05-01` [Android PLT hook 概述](site/blog/2018-05-01-android-plt-hook-overview.md)
 
-## Open Source Software
+## Open Source Projects
 
 * [ShadowHook @ByteDance](https://github.com/bytedance/android-inline-hook) - An inline hook library for Android app.
 * [ByteHook @ByteDance](https://github.com/bytedance/bhook) - A PLT hook framework for Android app.
