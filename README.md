@@ -1,6 +1,6 @@
 # Kelun Cai's Homepage
 
-Hi there. I'm Kelun Cai, a software engineer and open source projects author in Shanghai, China.
+Hi, I'm Kelun Cai, a software engineer and author of open source projects living in Shanghai, China.
 
 ## Blog
 
@@ -29,5 +29,6 @@ Hi there. I'm Kelun Cai, a software engineer and open source projects author in 
 * GitHub: https://github.com/caikelun
 * GitLab: https://gitlab.com/caikelun
 * Twitter: https://twitter.com/caikelun
+* Telegram: https://t.me/caikelun
 * Email: caikelun@gmail.com
 * PGP Public Key: [download](https://raw.githubusercontent.com/caikelun/caikelun.github.io/master/site/pgp-public-key.txt)
