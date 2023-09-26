@@ -1,7 +1,5 @@
 # Kelun Cai's Homepage
 
-Hi, I'm Kelun Cai, a software engineer and author of open source projects living in Shanghai, China.
-
 ## Blog
 
 * `2021-08-19` [字节跳动开源 Android PLT hook 方案 ByteHook](site/blog/2021-08-19-bytedance-open-source-bytehook.md)
